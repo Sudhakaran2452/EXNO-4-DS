@@ -1,4 +1,5 @@
-# EXNO:4-DS
+# Exno:4 Feature Scaling and Selection
+
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,10 +25,6 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-```
-NAME : SUDHAKARAN S
-REFERENCE NO : 212222220051
-```
 ```
 import pandas as pd
 import numpy as np
